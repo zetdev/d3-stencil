@@ -1,9 +1,9 @@
 {
-  "name": "d3-stencil",
+  "name": "d3-stenciljs",
   "private": false,
   "version": "2.2.1",
   "description": "Charts built with D3 and Stencil. Framework-agnostic, simple.",
-  "homepage": "https://github.com/edgarordonez/d3-stencil",
+  "homepage": "https://github.com/zetdev/d3-stencil",
   "keywords": [
     "Stencil",
     "D3.js",
@@ -57,10 +57,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/edgarordonez/d3-stencil.git"
+    "url": "git+https://github.com/zetdev/d3-stencil.git"
   },
   "bugs": {
-    "url": "https://github.com/edgarordonez/d3-stencil"
+    "url": "https://github.com/zetdev/d3-stencil"
   },
   "config": {
     "commitizen": {

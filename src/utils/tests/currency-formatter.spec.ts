@@ -12,6 +12,6 @@ describe('currency-formatter', () => {
   it('Should return $10,000.00. Using en-GB locale', () => {
     const result = currencyFormatter(amount, 'USD');
 
-    expect(result).toEqual('$10,000.00');
+    expect(result).toEqual('US$10,000.00');
   });
 });
